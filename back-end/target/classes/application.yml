@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    username: root
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/mylittleprojectDB?createDatabaseIfNotExist=true
+    # password: ${MYSQL_PASSWORD:password}
+    password: password
+  jpa:
+    defer-datasource-initialization: 'true'
+    generate-ddl: 'true'
+    properties:
+      hibernate-dialect: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: create
+  sql:
+    init:
+      mode: always
