@@ -2,9 +2,6 @@
 
 Introductory slides can be found [here](https://docs.google.com/presentation/d/1zynrfbTBypNKwjtPZAcTnJirSRG0lYe1ux-MixnmUE8/edit#slide=id.p)
 
-
-#### Application will be dockerized
-
 Screenshots
 ![Screenshot from 2022-11-02 17-32-01](https://user-images.githubusercontent.com/50747548/199532978-087ddd9b-afad-4124-8332-319a506e707d.png)
 ![Screenshot from 2022-11-02 17-32-31](https://user-images.githubusercontent.com/50747548/199532992-d5cc382b-1565-47fe-b970-7426d79d00ab.png)
